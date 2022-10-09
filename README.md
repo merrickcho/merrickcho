@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merrickcho
 - 👀 Gamer, Coffee Enthusiast, Mechanical Keyboard Enthusiast, Sneaker Enthusiast 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning the MERN stack
 - 📫 Reach me on Twitter @Zykeii
 
 <!---
